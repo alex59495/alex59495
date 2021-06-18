@@ -10,7 +10,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hostolab&repo=covidliste)](https://github.com/hostolab/covidliste) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alex59495&repo=my_profile)](https://github.com/alex59495/my_profile) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alex59495&repo=themis-production)](https://github.com/alex59495/themis-production) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alex59495&repo=ppsps_project)](https://github.com/alex59495/ppsps_project) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alex59495&repo=chomage_vi)](https://github.com/alex59495/chomage_vi)
 
 ### Github Stats
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex59495&show_icons=true&theme=radical)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex59495&show_icons=true&theme=algolia)
 
 ### Contact me
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-lenoir-857496ab/) [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+33650232096) [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexis.lenoir60@gmail.com)
